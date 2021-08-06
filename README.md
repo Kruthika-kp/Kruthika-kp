@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kruthika-kp
-- 👀 I’m interested in iOS App Development
+- 👀 I’m interested in Mobile App Development(iOS) 👩‍💻
 - 🌱 I’m currently learning SwiftUI
 - 📫 How to reach me kruthikakp@gmail.com
 
